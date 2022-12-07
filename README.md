@@ -11,6 +11,7 @@ Code is tested with Python 3.9.7 (Anaconda distribution) on Win10. Developed wit
 * Day 4:  Another set intersection question.  Got started late:  30:10  11599, 32:17  10092
 * Day 5:  Move items between stacks by a set of instructions, popping/append or (part 1) moving whole sections at a time.  Some more complex input parsing too, and solutions on Reddit seemed to have people that simply hardcoded it.  40:18   7927 / 59:23   9804
 * Day 6:  Iterate through a string to find first set of unique characters.  Pretty straightforward with collections.Counter.  15:24   9398 / 17:27   8572
+* Day 7:  Parse command-line commands + results to determine a directory tree, and then do some size calculations.  Lots of parsing / typing, and I'm amazed that some people did it in ~5 minutes.  49:34   4770 / 1:11:57   5981
 
 
 ## See previous work at:
