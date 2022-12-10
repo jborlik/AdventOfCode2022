@@ -14,7 +14,7 @@ Code is tested with Python 3.9.7 (Anaconda distribution) on Win10. Developed wit
 * Day 7:  Parse command-line commands + results to determine a directory tree, and then do some size calculations.  Lots of parsing / typing, and I'm amazed that some people did it in ~5 minutes.  49:34   4770 / 1:11:57   5981
 * Day 8:  Look along a matrix in a couple of directions.  Just did it more-or-less brute force, but there must have been a faster way to do this.  33:20   6237 / 1:00:41   6490
 * Day 9:  Have a point follow around another.  Part 2 extended it to a whole list of points, like a rope flapping in the breeze.  39:11   5656 / 1:05:46   4782
-
+* Day 10:  Follow instructions to increment a register (not unusual for AoC!).  Part 2 involved using the evolution of it to write a message in pixel art!.  27:18   5813 / 43:58   4346
 
 ## See previous work at:
 * https://github.com/jborlik/AdventOfCode2015
