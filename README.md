@@ -16,6 +16,7 @@ Code is tested with Python 3.9.7 (Anaconda distribution) on Win10. Developed wit
 * Day 9:  Have a point follow around another.  Part 2 extended it to a whole list of points, like a rope flapping in the breeze.  39:11   5656 / 1:05:46   4782
 * Day 10:  Follow instructions to increment a register (not unusual for AoC!).  Part 2 involved using the evolution of it to write a message in pixel art!.  27:18   5813 / 43:58   4346
 * Day 11:  Modulo math for monkeys.  Honestly, I used help from Reddit for Part 2 (where one needed to figure out a way of keeping integer values reasonably-sized).  The (supposedly) key observation is that all monkeys are looking for divisions of primes, so dividing the worry number by any multiple of that prime would result in the same modulo, so the trick is to divide the worry number by the product of all of the monkey divisors.  Kudos to those who saw it!  45:19   4019  / 22:37:05  39098
+* Day 12:  Path search, made somewhat simpler via the astar routine that I've used in previous years.  The trick was to create a custom network by parsing the data.  But I worked on it the next day.  23:32:56  34941 / 23:47:19  34028
 
 ## See previous work at:
 * https://github.com/jborlik/AdventOfCode2015
